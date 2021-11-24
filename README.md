@@ -1,5 +1,5 @@
 <h1>:earth_americas: Hello World!</h1>
- <img width="255px" align="right" src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" />
+ <img width="240px" align="right" src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" />
 <h3>:iphone: Social:</h3>
 <p>
   <a href="https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
