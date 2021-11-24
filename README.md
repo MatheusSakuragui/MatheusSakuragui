@@ -1,9 +1,11 @@
 <h1>:earth_americas: Hello World!</h1>
+ <img width="255px" align="right" src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" />
 <h3>:iphone: Social:</h3>
 <p>
   <a href="https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=matheus.lemesakuragui@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=602D9B"/></a>
   <a href="https://discord.com/users/661334263127605291"><img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=602D9B"/></a>
+
  </p>
 <h3>:man_technologist: Technologies And Tools:</h3>
 <p>
