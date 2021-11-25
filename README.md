@@ -9,12 +9,12 @@
  </p>
 <h3>:man_technologist: Technologies And Tools:</h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B"/>
-  <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B"/>
-  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"/>
-  <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B"/>
-  <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"/>
-  <img src="https://img.shields.io/badge/Heroku-151515?style=for-the-badge&logo=heroku&logoColor=602D9B"/>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B"/></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B"/></a>
+   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"/></a>
+   <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B"/></a>
+   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"/></a>
+   <a href="https://devcenter.heroku.com/"><img src="https://img.shields.io/badge/Heroku-151515?style=for-the-badge&logo=heroku&logoColor=602D9B"/></a>
 <p>
 <h3>:bar_chart: GitHub Stats:
 <div><br>
