@@ -1,9 +1,9 @@
 <h1>:earth_americas: Hello World!</h1>
 <h3>:bar_chart: GitHub Stats:
 <div><br>
-<img height="170" src ="https://github-readme-stats.vercel.app/api?username=MatheusSakuragui&theme=dark&show_icons=true&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&hide=prs,issues"/>
+<img height="160" src ="https://github-readme-stats.vercel.app/api?username=MatheusSakuragui&theme=dark&show_icons=true&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&hide=prs,issues"/>
  &nbsp; 
-<img height="170"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSakuragui&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&layout=compact" />
+<img height="160"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSakuragui&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&layout=compact" />
 </div>
 </h3>
 <img width="240px" align="right" src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" />
