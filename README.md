@@ -1,4 +1,11 @@
 <h1>:earth_americas: Hello World!</h1>
+<h3>:bar_chart: GitHub Stats:
+<div><br>
+<img height="140" src ="https://github-readme-stats.vercel.app/api?username=MatheusSakuragui&theme=dark&show_icons=true&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&hide=prs,issues"/>
+ &nbsp; 
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSakuragui&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&layout=compact" />
+</div>
+</h3>
  <a href="https://www.leagueoflegends.com/pt-br/champions/heimerdinger/"><img width="240px" align="right" src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" /></a>
 <h3>:iphone: Social:</h3>
 <p>
@@ -16,10 +23,4 @@
    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"/></a>
    <a href="https://devcenter.heroku.com/"><img src="https://img.shields.io/badge/Heroku-151515?style=for-the-badge&logo=heroku&logoColor=602D9B"/></a>
 <p>
-<h3>:bar_chart: GitHub Stats:
-<div><br>
-<img height="140" src ="https://github-readme-stats.vercel.app/api?username=MatheusSakuragui&theme=dark&show_icons=true&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&hide=prs,issues"/>
- &nbsp; 
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSakuragui&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=8108a6&icon_color=6E33B5&layout=compact" />
-</div>
-</h3>
+
