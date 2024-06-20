@@ -23,7 +23,8 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 
 ## Projetos
 
-### Associação: FATEC - Centro Paula Souza
+### Associação: FATEC - Centro Paula Souza 
+
 **Projeto:** Portal de Informações (API-2021.2)
 **Descrição:** Após o impacto da pandemia da COVID-19, houve um aumento significativo na demanda por informações no site da FATEC, o que impactou negativamente o desempenho do sistema, tornando-o mais lento. Para resolver essa questão, a instituição criou um portal de informações direcionado aos docentes e discentes.
 **Competências:**
@@ -32,8 +33,8 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - Flask
 - MySQL
 - JavaScript
-**Contribuição:** Atuei no desenvolvimento do banco de dados, back-end e integrações com o front-end, apesar de não participar na construção das telas ou design.
-
+**Contribuição:** Atuei no desenvolvimento do banco de dados, back-end e integrações com o front-end, apesar de não participar na construção das telas ou design.</br>
+### <a href="https://github.com/TheAchieversDSM/API-2021.2">Link para o repositório da API-2021.2</a>
 ### Associação: Ionic Health
 **Projeto:** Plataforma de Controle de Talentos (API-2022.1)
 **Descrição:** Em colaboração com a equipe de Recursos Humanos da Ionic Health, foi desenvolvida uma solução para gestão de talentos da empresa. A plataforma permite a criação de perfis iniciais para novos colaboradores, auto cadastro, aprovação ou recusa de informações cadastradas e visualização do organograma da empresa.
@@ -44,6 +45,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - JavaScript
 - TypeScript
 **Contribuição:** Foquei principalmente no desenvolvimento back-end, aprimorando minhas habilidades com novas linguagens e frameworks, e também trabalhei no front-end com componentes React.
+### <a href="https://github.com/TheAchieversDSM/API-2022.1">Link para o repositório da API-2022.1</a>
 
 ### Associação: UOL (Universo Online)
 **Projeto:** Site de Venda de Produtos e Serviços
@@ -54,6 +56,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - Java
 - NodeJS
 **Contribuição:** Trabalhei no back-end, enfrentando o desafio de utilizar bancos de dados não relacionais (MongoDB) e aprendendo a usar ORM's para melhorar a eficiência do desenvolvimento.
+### <a href="https://github.com/TheAchieversDSM/API-2022.2">Link para o repositório da API-2022.2</a>
 
 ### Associação: Tecsus
 **Projeto:** Plataforma de Monitoramento Ambiental (API-2023.1)
@@ -68,6 +71,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - JavaScript
 - TypeScript
 **Contribuição:** Fui responsável pelo tratamento de dados entre bancos não relacionais (Firebase) e relacionais (SQL), além da plotagem dos dados no front-end utilizando a biblioteca Highcharts.
+### <a href="https://github.com/TheAchieversDSM/API-2023.1">Link para o repositório da API-2023.1</a>
 
 ### Associação: Oracle Academy
 **Projeto:** Aplicativo para Gerenciamento de Tarefas (API-2023.2)
@@ -80,6 +84,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - MySQL
 - MongoDB
 **Contribuição:** Atuei como Product Owner (P.O.), traduzindo as necessidades dos clientes em funcionalidades para a equipe, e desenvolvi o back-end com múltiplas funcionalidades.
+### <a href="https://github.com/TheAchieversDSM/API-2023.2">Link para o repositório da API-2023.2</a>
 
 ### Associação: Dom Rock
 **Projeto:** Plataforma para Marketing (API-2024.1)
@@ -92,7 +97,7 @@ Bem-vindo ao meu portfólio! Sou um estudante de Desenvolvimento de Software Mul
 - MySQL
 - MongoDB
 **Contribuição:** Mantive o papel de P.O., validando funcionalidades com o cliente e organizando as tarefas por prioridades, além de colaborar no back-end com o tratamento de dados de PLN e criação de rotas para o front-end.
-
+### <a href="https://github.com/TheAchieversDSM/API-2024.1">Link para o repositório da API-2024.1</a>
 ## Competências
 
 - Linguagens de Programação: HTML 5, CSS 3, JavaScript, TypeScript, Python, Java, SQL, NoSQL
